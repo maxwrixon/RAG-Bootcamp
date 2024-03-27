@@ -9,7 +9,7 @@
 import streamlit as st
 
 # Use a text input field for the user to enter a query
-query = st.text_input("Enter your query:", "")
+query = st.text_input("Enter your query:", "", key="unique_query_input_key")
 
 
 
