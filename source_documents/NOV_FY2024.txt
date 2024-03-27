@@ -1,0 +1,632 @@
+ 
+ 
+ 
+ 
+ 
+Total Retail | Portfolio Trends and Notable Highlights 6
+	Portfolio Trends	31+ Delinquency
+•	Balances continue to decrease mainly due to lower Mortgage credit demand and reduced Auto originations impacted from de-risking, rising vehicle prices and higher rates, partially offset by Unsecured products
+•	%31+ delinquency at 0.63%, slightly higher MoM (+1bp) with largest increases observed in Prime Auto (+8bps) and Near-Prime Auto (+38bps) followed by RESL (+1bp).
+•	YoY delinquency continues to climb across all products except for Credit Cards which is showing stable trends for %31+ (-1bps) and %91+ (-2bps).
+As of Oct’23
+Originations
+•	New bookings are relatively stable MoM ($5.1Bn, +1%), however, are lower QoQ (-5.8%) and YoY (-23%) mainly driven by large reductions in Mortgages and Prime Auto (-33% and -31% respectively) in line with industry trends and de-risking expectations.
+•	Vintage delinquency of 0.55% improved 7bps MoM driven by reductions in Lines of Credit and Prime Auto. However, delinquency remains higher QoQ and YoY across most products (except for SDA and Cards) and driven by the effects of lower mortgage weighting contribution on total retail delinquency levels.
+Takeaways
+•	Despite higher interest rates, Mortgage indebtedness levels at origination have decreased after management actions. Proportion of ‘Uninsured Mortgages with booked TDSR>50%’ has decreased from 9.1% in Q2F23 to 5.6% (SCC limit of 7%).
+•	Cards %91+ continue to show stable performance (-2bps YoY) in contrast with all other retails products (Prime Auto +55%, ULOC +39%, and HELOC +134%). Cards receivables have increased Y/Y by over $1Bn in part driven by Risk strategy changes.
+•	%91+ for HELOC and ULOC is higher Q/Q and Y/Y, with HELOC reaching highest levels in last 5 years.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ACE - Executive Overview | October YTD F2023	17
+17
+Overall Volumes	October Volumes	YTD
+Volumes	M/M	YTD Y/Y	Touches per Account	Approval Rate	Action Request Rate	Amend. Rate	SLA
+Retail Unsecured Lending (Incl. HVC)	4,932	68,630	-22%	30%	1.4	61%	12%	18%	100%
+Indirect Automotive Lending (Incl. DFC, SDA)	12,716	193,737	5%	-25%	1.7	75%	8%	30%	91%
+RESL Branch Network	4,400	55,665	10%	-34%	3.0	72%	18%	52%	100%
+Indirect Mortgages (HFS, SMA)	9,959	101,059	20%	-34%	2.3	83%	10%	51%	100%
+Private Banking (Incl. Credit Review)	1,201	16,033	-1%	-7%	2.7	89%	29%	37%	99%
+ACE Retail/Indirect Total	33,208	435,124	4%	-23%	1.2	75%	11%	36%	96%
+Small Business (Incl. SPSP, Specialty)	3,652	53,846	-15%	-3%	1.4	74%	21%	18%	96%
+Small Business Credit Review	176	5,613	24%	-8%	1.3	89%	31%	N/A	N/A
+Credit Adjudication Program (CAP)	46	175	-32%	-	N/A	35%	14%	31%	99%
+ACE Small Business Total	3,874	59,634	-14%	-3%	1.3	76%	22%	18%	96%
+ACE Total Overall	37,082	494,758	1%	-21%	1.2	75%	12%	34%	96%
+Turnaround Time Breakdown	Key Performance Indicators
+
+Channel	≤ 4 Hrs.	≤ 12 Hrs.	≤ 24 Hrs	≤ 48 Hrs	Target/Plan
+Unsecured	80.7%	86.7%	99.9%	100%	85%
+RESL	88.3%	93.5%	100%	100%	85%
+Private Banking	72.3%	78.1%	98.9%	100%	85%
+Small Business	31.0%	41.0%	70.0%	96.0%	85%
+		Oct F2023	YTD F2023	Target TAT
+Deal Finance Centre		13.4 min	16.5 min	25 min
+Scotia Dealer Advantage		11.3 min	18.9 min	40 min
+	
+Indicator	Oct F2023	YTD F2023		Target/Plan
+Productivity (Retail, Indirect MTG, DFC, PB)	78.8%	73.6%		100%
+Productivity (SB)	93.0%	96.0%		95%
+Internal Quality Control (“QC”)
+% of processing reviewed and adhered	98.00%	96.75%		95%
+Operating Expenses
+total monthly operating expenses	TBD	TBD	-	TBD
+
+Commentary
+•	Retail productivity remains below target; driven by lower volumes coming into ACE. 5 FTE working with BSC to assist in stabilizing LSSB volumes.
+•	Overall YTD approval rate is 75% with all segments achieving their respective target SLA's.
+•	Changes made to CRU logic for Small Business have reduced volumes by 60% with a greater focus on high-risk accounts. MoM increase of 24% represents a small addback over September volumes.
+Commentary/Observations			Review Area	Completed	Status
+•
+•
+•	F2023 October AR rating results are within the established target of 95% satisfactory & low risk impact for each of the 7 metrics.
+Areas of opportunity include Exceptions Identified and Appropriate Conditioning.  AR findings include missing conditions, omission of conditions specific to programs, insufficient details in conditions and not identifying all conditions.
+The Over Lending Limit Report identified only 37 deficiency findings in fiscal 2023 with none in the last 2 months, indicating ACE officers are adhering to their individual lending limits the vast majority of the time.	Audit - Small Business Audit                               May 2023
+	AR - Sagen Review*	July 2023
+	AR - Canada Guarantee 	October 2023
+	Review*	October 2023
+AR - CMHC Review*	Satisfactory – Stable
+No material issues
+No material issues
+No material issues
+	ACE – Adjudication Review | Audit and PAE Findings | October YTD F2023	18
+ 
+• The AR team has completed 1,728 Automated Officer (AO) reviews in fiscal 2023 and have found no major items of 	*Default insurer audit requiring Adjudication Review (AR) note indicating AO is operating as expected.   	review of ACE decisions. 
+	Highlights - ACE F2023 	19
+Automotive
+o	DFC POI waiver reduced on funded application from 25% in Nov ’22 down to 8% Oct ’23 – part of derisking strategy and risk mitigation to the Bank o Cross Senior Support – in absence of Director to support 15-hour workday – maintaining the 25-minute Service Level Agreement RESL
+o	Funded conventional non-program applications - TDSR over 50% decreased from 10.6% in April 2023 to 4.2% in September 2023 – part of overall de-risking strategy and to reduce below the Senior Credit Committee (SCC) level of 7%. 
+o	Clarification of policy for Total number of property limits, Qualification of amortization for LOC only applications, bridge loans, review of 19 current items.
+o	Automated Officer – Implementation for all RESL applications – reduces non-material amendments from 17 mins to 2 mins – fiscal year reviewed 1,735 applications – Speed to Customer and improves staff capacity.
+o	Private Baking – removal of Summary of Personal Finance and Business Needs assessment review from ACE – reduce Action Request to the Business Line Unsecured Lending
+•	Unsecured – New to Canada policy to align with the Foreign Worker 
+•	BNS Aggregate credit using the higher of the two and not using combined (applicable for RESL as well) – clarity from GRM 
+•	Private Banking Credit Limit Increase (CLI) – through constellation and CCRL – new process to support decommission of ReCap Small Business
+•	Collaboration with GRM on Exception reporting as current reporting did not capture OM exceptions accurately. New reporting reflect 6741 vs 2138 reported previously.	Ongoing efforts will continue
+•	Simplification of the SPP ACE Plus intake form creating additional capacity of 6-8 minutes per application representing 10% savings in time to underwrite. In addition, it saves time for LSSB allowing them to cut and paste conditions faster
+•	CRU risk parameters revisited and simplified, resulting in a 60-70% reduction in reviews sent to ACE with future FTE savings
+•	Enhancements to DSR which ACE identified and tested prior to launch which is improving accuracy and flexibility to spread larger connections	 
+
+ 
+•	Unsecured volumes decreased ~22% M/M and up ~ 30% Y/Y. The increase Y/Y is attributed to the focus on Credit Card growth and additional growth in New to Canada (NTC) and Refugee programs.
+•	For High Value Customer (HVC) applications, ~ 54% are reviewed and decisioned within 1 hour and ~79% are reviewed and decisioned within 4 hours.
+•	Additional focus has been placed on cross channel support to ensure that we are fully leveraged for peaks in volumes in the Retail Channel and other areas of ACE . We continue to meet SLA for the month of October (SLA- 100%)
+Indicator	Oct F2023	YTD F2023		Target/Plan
+Internal Quality Control (“QC”) % of processing reviewed and adhered	97.4%	95.8%		N/A
+Operating Expenses
+total monthly operating expenses	$0.13MM	$1.59MM	-	$1.68MM
+Commentary
+ACE – Retail Unsecured Operations | Key Indicators & SLA Targets | October YTD F2023
+
+Foot Notes
+1.	Volumes represent YTD total activities.
+2.	Y/Y represents YTD change between this fiscal year and last fiscal year.
+3.	SLA Target
+•	Retail = 85%
+•	HVC = 90%
+More than 5% below target
+0%-5% below target Equal/Above target
+4. NSR is all non-standard requests which involve no credit bureau hit. 5. NTC – New to Canada program
+	
+Overall Volumes	October Volumes	YTD Volumes1	M/M	YTD
+Y/Y2	Touches per Account	Approval Rate	Action Request Rate	Amend. Rate	Handle Time (min)	SLA3 21
+Overall Retail Unsecured	4,932	68,630	-22%	30%	1.4	61%	12%	18%	31	100%
+Retail - Credit Cards	1,428	27,314	-30%	-4%	1.3	64%	9%	17%	26	100%
+Retail - Line of Credits	837	12,026	-16%	0%	1.5	46%	18%	20%	46	100%
+Retail – SPL	196	2,528	-2%	2%	1.4	33%	10%	22%	37	100%
+Retail – Overdrafts	39	436	34%	31%	1.2	35%	15%	11%	23	100%
+Retail – NSR4	214	2,833	-12%	22%	1.7	58%	28%	21%	81	99%
+Retail NTC5– CC, LOC, SPL, ODP	1,664	15,662	-24%	-	1.2	72%	6%	12%	19	100%
+HVC - Credit Cards	126	1,394	-17%	30%	1.7	72%	22%	24%	32	100%
+HVC - Line of Credits	319	5,076	-16%	-3%	1.8	58%	18%	29%	43	100%
+HVC – SPL	96	1,205	-9%	41%	1.7	52%	13%	32%	36	100%
+HVC – Overdrafts	12	102	100%	38%	1.2	55%	19%	13%	32	100%
+HVC – NSR	0	3	-100%	0%	1.0	0%	50%	0%	41	100%
+HVC NTC5– CC, LOC, SPL	1	51	-91%	-	1.5	55%	12%	24%	15	100%
+
+	 
+Foot Notes
+1.	Volumes represent YTD total activities.
+2.	Y/Y represents YTD change between this fiscal year and last fiscal year.
+3.	SLA Targets
+•	Retail, HFS & SMA = 85%
+•	HVC = 90%
+More than 5% below target
+0%-5% below target Equal/Above target
+4.	Automated Officer: CEA automated decision for nonmaterial amendments and a TDSR variance <2%.
+Note: AO volumes are already accounted for within Overall Volumes.
+5.	HFS Volumes includes E-Home applications. 
+•	Retail and HVC volumes output increased 3% and 16% respectively M/M . Volume increased slightly due to competitive rates (bundle package) and time of year. This was the expectation that volumes could increase marginally in October but volume for remainder of the calendar year will be lower than Y/Y monthly numbers.
+•	Indirect Mortgage saw an increase M/M of 20%. (SMA volumes up 24% and HFS up 14%). Market is up slightly in October v September and Bundle package likely has provided more interest especially in the Broker/SMA channel. De-risking measures continue to hinder some volumes from the business line and therefore to ACE.
+•	Total TAT remains strong with ~ 69% of RESL applications being decisioned within 1 hour and ~88% within 4 hours.
+ACE – RESL Operations | Key Indicators & SLA Targets | October YTD F2023
+Overall Volumes	October Volumes	YTD Volumes1	M/M	YTD
+Y/Y2	Touches per 
+Account	Approval Rate	Action 
+Request Rate	Amend. Rate	Handle 
+Time
+(min)	SLA3
+Branch Network Overall	4,400	55,665	10%	-34%	3.0	72%	18%	52%	33	100%
+Retail	2,057	27,072	3%	-36%	2.8	69%	19%	50%	34	100%
+Retail – NTC	39	208	144%	-	2.8	50%	21%	49%	40	100%
+High Value Customers (HVC)	2,304	28,358	16%	-31%	3.1	75%	17%	54%	32	100%
+High Value Customers (HVC) - NTC	0	27	-	-	5.4	52%	15%	67%	58	100%
+Automated Officer4	93	1,210	43%	-2%	-	100%	-	-	-	-
+Indirect Mortgage Overall	9,959	101,059	20%	-33%	2.3	83%	10%	51%	23	100%
+Home Financing Solutions (HFS)5	3,660	44,408	14%	-31%	2.4	84%	9%	53%	24	100%
+Scotia Mortgage Authority (SMA)	6,299	56,651	24%	-36%	2.3	82%	10%	49%	23	100%
+Automated Officer4	95	525	34%	-	-	100%	-	-	-	-
+	Turnaround Time Breakdown	Key Performance Indicators
+ 	
+Indicator	Oct F2023	YTD F2023		Target/Plan
+Internal Quality Control (“QC”) % of processing reviewed and adhered is satisfactory and low risk impact	97.7%	96.9%		95%
+Operating Expenses
+total monthly operating expenses	$0.62MM	$7.76MM	-	$8.20MM
+
+•	Prime Finance volumes (DFC) Increased ~17% M/M and Leases increased ~5% M/M. While Y/Y saw a decrease in Finance of ~31% and an increase in Leases ~31% Business Line volumes continue to be lower Y/Y, ACE is reviewing a lower percentage of volumes due to de-risking measures and increase in interest rates.
+•	Near Prime (SDA) decreased ~12% M/M and decreased ~15% Y/Y.
+•	Productivity continues to be challenging over the last 10 months with a decrease in volumes due to de-risking and an increase in interest rates.
+•	A focus on cross channel support has been implemented as ACE continues to see spikes in daily volumes in other channels and staff is utilized to support SLA across ACE.
+ACE – Indirect Automotive Operations | Key Indicators & SLA Targets | October YTD F2023
+Foot Notes
+1.	Volumes represent YTD total activities.
+2.	Y/Y represents YTD change between this fiscal year and last fiscal year.
+3.	Handle Time is for DFC only. SDA data based on Turn Around Time (TAT) due to system limitations.
+4.	SLA Performance is based on TAT and is measured in minutes.
+•	DFC TAT target = 25 mins
+•	SDA TAT target = 40 mins
+SLA is over TAT target
+SLA is under TAT target
+Overall Volumes	October Volumes	YTD Volumes1	M/M	YTD
+Y/Y2	Touches per 
+Account	Approval Rate	Action 
+Request Rate	Amend. Rate	Handle Time (Min)3	SLA4
+Overall Indirect Automotive	12,716	193,737	5%	-25%	1.7	75%	8%	30%	n/a 	91%
+Dealer Finance Center (Prime) – Finance	7,514	121,724	17%	-31%	1.7	72%	10%	32%	6.6	87%
+Dealer Finance Center (Prime) – Lease	1,032	10,269	5%	31%	1.8	75%	12%	33%	6.9	91%
+Scotia Dealer Advantage (non-prime)	4,170	61,744	-12%	-15%	n/a	80%	3%	25%	18.6	100%
+Indicator	Oct F2023	YTD F2023		Target/Plan
+Internal Quality Control (“QC”) % of processing reviewed and adhered	99.5%	99.4%		95%
+Operating Expenses total monthly operating expenses	$0.29MM	$3.65MM	-	$3.86MM
+	Turnaround Time Breakdown - DFC	Key Performance Indicators 
+•	Overall volumes decreased ~1% M/M and down ~7% Y/Y. Higher interest rates and market uncertainty could be attributed to the decrease in volumes M/M and Y/Y. Noted increase in applications done by HFS/ PB up 9% M/M.
+•	72% of applications are reviewed within 4 hours.
+•	ACE sustained approval rate at 89% which is consistent with YTD (this is inclusive of Annual Reviews).
+•	Action Requests are at 29% YTD working with the Business Line to improve first time right.
+•	Service Level Agreements (SLA) are within target due to Queue Management for all time zones across Canada.
+ACE – Private Banking Operations | Key Indicators & SLA Targets | October YTD F2023
+Overall Volumes	October Volumes	YTD Volumes1	M/M	YTD
+Y/Y2	Touches per Account	Approval Rate	Action Request Rate	Amend. Rate	Handle Time (min)	SLA3
+Overall Private Banking	1,201	16,033	-1%	-7%	2.7	89%	29%	37%	69	99%
+Mortgages	691	7,752	8%	-14%	3.3	89%	25%	47%	49	99%
+Mortgages – Retail	177	2,257	4%	-18%	3.8	83%	32%	44%	52	99%
+Mortgages - HFS	514	5,495	9%	-13%	3.1	90%	22%	48%	48	99%
+Credit Cards4	86	988	-17%	0%	1.8	78%	32%	23%	37	99%
+Line of Credit	43	960	-38%	-5%	2.4	81%	28%	34%	56	99%
+PBODF/PBOLL	361	4,727	-5%	-19%	2.5	92%	33%	30%	91	100%
+Annual Reviews	20	373	25%	7%	1.1	97%	14%	0%	195	98%
+Foot Notes
+1.	Volumes represent YTD total activities.
+2.	Y/Y represents YTD change between this fiscal year and last fiscal year.
+3.	ACE Private Banking 
+SLA Targets = 90%
+More than 5% below target
+0%-5% below target
+Equal/Above target
+4.	Credit Card Volumes and approval rates includes standard retail and New To Canada (NTC).
+Indicator	Oct F2023	YTD F2023		Target/Plan
+Internal Quality Control 
+(“QC”)
+% of processing reviewed and adhered	98.8%	94.6%		95%
+Operating Expenses total monthly operating expenses	$0.87MM	$1.09MM	-	$1.15MM
+	Turnaround Time Breakdown	Key Performance Indicators 
+Foot Notes
+1.	Volumes represent YTD total activities.
+2.	Y/Y represents YTD change 
+between this fiscal year vs last fiscal year.
+3.	Approval rate is based on decisioned applications (approved + declined).
+4.	Applications that require prefunding conditions validation.
+5.	ACE Small Business 
+SLA Targets = 85%
+More than 5% below target
+0%-5% below target
+Equal/Above target
+6.	Credit Adjudication Platform -CAP  volumes are included in overall volumes starting from July 1, 2023. 
+ACE - Small Business Operations | Key Indicators & SLA Targets | October YTD F2023
+Overall Volumes	October Volumes	YTD1 Volumes	M/M	YTD
+Y/Y2	Touches per Account	FTR	Amend. Rate FTR	Approval Rate3	Pre-funding Rate4	Action Request Rate	Abandon Rate	Amend. Rate	SLA5
+Small Business Overall	3,874	59,634	-14%	-3%	1.3	58%	12%	76%	20%	22%	12%	18%	96%
+Small Business (Excl. SPSP)	2,102	29,312	-16%	2%	1.4	47%	13%	65%	18%	24%	13%	16%	95%
+Scotia Professional Student Plan	356	8,863	-39%	-7%	1.4	80%	5%	84%	2%	24%	14%	7%	98%
+Small Business Specialty	1,194	15,671	1%	-7%	1.2	63%	25%	85%	31%	15%	9%	28%	95%
+SBH/CAP Volumes6	46	175	-32%	-	N/A	58%	N/A	35%	N/A	14%	N/A	31%	99%
+Credit Review Unit	176	5,613	24%	-8%	1.3	N/A	N/A	89%	N/A	31%	N/A	N/A	N/A
+	Key Performance Indicators	CRU Action Request Pending by Region in Days
+
+Indicator	Oct F2023	YTD F2023	Target/Plan
+Internal Quality Control (“QC”) % of processing reviewed and adhered	95.2%	95.2%	95%
+Operating Expenses
+total monthly operating expenses	$0.46MM	$5.73MM	$6.06MM
+	 
+	Turnaround Time Breakdown	% of Total Activities by Application Aggregate Amount
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trend Legend:
+Canadian Banking – Guardrails Update 	  Below F23 Limit 	  Above F23 Early Warning Threshold	  Above F23 Risk Appetite Threshold
+Vintage at 6MOB is +9 bps higher QoQ, mainly driven by significantly lower weighting contributions from RESL originations, coupled with elevated delinquency levels on Prime Auto and Unsecured lines. Vintage delinquency continues to normalize across most products, partially offset by improvements in Near Prime Auto and Credit Cards, in line with industry trends and remain below F’23 SCC Limit.
+ 
+ 
+
+PRODUCT	Q2’23
+Value	Q3’23 Fcst
+Value	Q4’23 Fcst
+Value	Q1’24 Fcst
+Value	F’23 
+Limit
+	
+PRODUCT	Q2’23 Fcst
+Value	Q3’23 Fcst
+Value	Q4’23 Fcst
+Value	Q1’24 Fcst
+Value
+
+	Credit Cards	1.41%	1.41%	1.68%	1.68%	3.50%	Credit Cards	1.65%	1.58%	1.80%	1.80%
+
+ULOC	0.81%	0.81%	0.85%	0.85%	1.20%
+SDA	3.45%	3.73%	3.88%	3.85%	5.50%
+Prime Auto	0.97%	0.96%	1.00%	0.82%	1.70%
+HELOC	0.15%	0.23%	0.25%	0.26%	0.60%
+Mortgages	0.16%	0.15%	0.15%	0.14%	0.20%
+	
+ULOC	0.87%	0.89%	1.03%	1.11%
+SDA	2.67%	2.82%	2.95%	2.91%
+Prime Auto	0.15%	0.15%	0.15%	0.13%
+HELOC	0.00%	0.00%	0.00%	0.00%
+Mortgages1	0.68%	0.72%	0.84%	0.68%
+
+1Values refer to 31+ Delinquency @24 MOB for Mortgages
+ 
+Automotive Lending 
+Real Estate Secured Lending
+ 
+Unsecured Lending 
+Small Business
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Total Retail | Portfolio Trends and Notable Highlights 6
+	Portfolio Trends	31+ Delinquency
+•	Balances continue to decrease mainly due to lower Mortgage credit demand and reduced Auto originations impacted from de-risking, rising vehicle prices and higher rates, partially offset by Unsecured products
+•	%31+ delinquency at 0.63%, slightly higher MoM (+1bp) with largest increases observed in Prime Auto (+8bps) and Near-Prime Auto (+38bps) followed by RESL (+1bp).
+•	YoY delinquency continues to climb across all products except for Credit Cards which is showing stable trends for %31+ (-1bps) and %91+ (-2bps).
+As of Oct’23
+Originations
+•	New bookings are relatively stable MoM ($5.1Bn, +1%), however, are lower QoQ (-5.8%) and YoY (-23%) mainly driven by large reductions in Mortgages and Prime Auto (-33% and -31% respectively) in line with industry trends and de-risking expectations.
+•	Vintage delinquency of 0.55% improved 7bps MoM driven by reductions in Lines of Credit and Prime Auto. However, delinquency remains higher QoQ and YoY across most products (except for SDA and Cards) and driven by the effects of lower mortgage weighting contribution on total retail delinquency levels.
+Takeaways
+•	Despite higher interest rates, Mortgage indebtedness levels at origination have decreased after management actions. Proportion of ‘Uninsured Mortgages with booked TDSR>50%’ has decreased from 9.1% in Q2F23 to 5.6% (SCC limit of 7%).
+•	Cards %91+ continue to show stable performance (-2bps YoY) in contrast with all other retails products (Prime Auto +55%, ULOC +39%, and HELOC +134%). Cards receivables have increased Y/Y by over $1Bn in part driven by Risk strategy changes.
+•	%91+ for HELOC and ULOC is higher Q/Q and Y/Y, with HELOC reaching highest levels in last 5 years.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ACE - Executive Overview | October YTD F2023	17
+17
+Overall Volumes	October Volumes	YTD
+Volumes	M/M	YTD Y/Y	Touches per Account	Approval Rate	Action Request Rate	Amend. Rate	SLA
+Retail Unsecured Lending (Incl. HVC)	4,932	68,630	-22%	30%	1.4	61%	12%	18%	100%
+Indirect Automotive Lending (Incl. DFC, SDA)	12,716	193,737	5%	-25%	1.7	75%	8%	30%	91%
+RESL Branch Network	4,400	55,665	10%	-34%	3.0	72%	18%	52%	100%
+Indirect Mortgages (HFS, SMA)	9,959	101,059	20%	-34%	2.3	83%	10%	51%	100%
+Private Banking (Incl. Credit Review)	1,201	16,033	-1%	-7%	2.7	89%	29%	37%	99%
+ACE Retail/Indirect Total	33,208	435,124	4%	-23%	1.2	75%	11%	36%	96%
+Small Business (Incl. SPSP, Specialty)	3,652	53,846	-15%	-3%	1.4	74%	21%	18%	96%
+Small Business Credit Review	176	5,613	24%	-8%	1.3	89%	31%	N/A	N/A
+Credit Adjudication Program (CAP)	46	175	-32%	-	N/A	35%	14%	31%	99%
+ACE Small Business Total	3,874	59,634	-14%	-3%	1.3	76%	22%	18%	96%
+ACE Total Overall	37,082	494,758	1%	-21%	1.2	75%	12%	34%	96%
+Turnaround Time Breakdown	Key Performance Indicators
+
+Channel	≤ 4 Hrs.	≤ 12 Hrs.	≤ 24 Hrs	≤ 48 Hrs	Target/Plan
+Unsecured	80.7%	86.7%	99.9%	100%	85%
+RESL	88.3%	93.5%	100%	100%	85%
+Private Banking	72.3%	78.1%	98.9%	100%	85%
+Small Business	31.0%	41.0%	70.0%	96.0%	85%
+		Oct F2023	YTD F2023	Target TAT
+Deal Finance Centre		13.4 min	16.5 min	25 min
+Scotia Dealer Advantage		11.3 min	18.9 min	40 min
+	
+Indicator	Oct F2023	YTD F2023		Target/Plan
+Productivity (Retail, Indirect MTG, DFC, PB)	78.8%	73.6%		100%
+Productivity (SB)	93.0%	96.0%		95%
+Internal Quality Control (“QC”)
+% of processing reviewed and adhered	98.00%	96.75%		95%
+Operating Expenses
+total monthly operating expenses	TBD	TBD	-	TBD
+
+Commentary
+•	Retail productivity remains below target; driven by lower volumes coming into ACE. 5 FTE working with BSC to assist in stabilizing LSSB volumes.
+•	Overall YTD approval rate is 75% with all segments achieving their respective target SLA's.
+•	Changes made to CRU logic for Small Business have reduced volumes by 60% with a greater focus on high-risk accounts. MoM increase of 24% represents a small addback over September volumes.
+Commentary/Observations			Review Area	Completed	Status
+•
+•
+•	F2023 October AR rating results are within the established target of 95% satisfactory & low risk impact for each of the 7 metrics.
+Areas of opportunity include Exceptions Identified and Appropriate Conditioning.  AR findings include missing conditions, omission of conditions specific to programs, insufficient details in conditions and not identifying all conditions.
+The Over Lending Limit Report identified only 37 deficiency findings in fiscal 2023 with none in the last 2 months, indicating ACE officers are adhering to their individual lending limits the vast majority of the time.	Audit - Small Business Audit                               May 2023
+	AR - Sagen Review*	July 2023
+	AR - Canada Guarantee 	October 2023
+	Review*	October 2023
+AR - CMHC Review*	Satisfactory – Stable
+No material issues
+No material issues
+No material issues
+	ACE – Adjudication Review | Audit and PAE Findings | October YTD F2023	18
+ 
+• The AR team has completed 1,728 Automated Officer (AO) reviews in fiscal 2023 and have found no major items of 	*Default insurer audit requiring Adjudication Review (AR) note indicating AO is operating as expected.   	review of ACE decisions. 
+	Highlights - ACE F2023 	19
+Automotive
+o	DFC POI waiver reduced on funded application from 25% in Nov ’22 down to 8% Oct ’23 – part of derisking strategy and risk mitigation to the Bank o Cross Senior Support – in absence of Director to support 15-hour workday – maintaining the 25-minute Service Level Agreement RESL
+o	Funded conventional non-program applications - TDSR over 50% decreased from 10.6% in April 2023 to 4.2% in September 2023 – part of overall de-risking strategy and to reduce below the Senior Credit Committee (SCC) level of 7%. 
+o	Clarification of policy for Total number of property limits, Qualification of amortization for LOC only applications, bridge loans, review of 19 current items.
+o	Automated Officer – Implementation for all RESL applications – reduces non-material amendments from 17 mins to 2 mins – fiscal year reviewed 1,735 applications – Speed to Customer and improves staff capacity.
+o	Private Baking – removal of Summary of Personal Finance and Business Needs assessment review from ACE – reduce Action Request to the Business Line Unsecured Lending
+•	Unsecured – New to Canada policy to align with the Foreign Worker 
+•	BNS Aggregate credit using the higher of the two and not using combined (applicable for RESL as well) – clarity from GRM 
+•	Private Banking Credit Limit Increase (CLI) – through constellation and CCRL – new process to support decommission of ReCap Small Business
+•	Collaboration with GRM on Exception reporting as current reporting did not capture OM exceptions accurately. New reporting reflect 6741 vs 2138 reported previously.	Ongoing efforts will continue
+•	Simplification of the SPP ACE Plus intake form creating additional capacity of 6-8 minutes per application representing 10% savings in time to underwrite. In addition, it saves time for LSSB allowing them to cut and paste conditions faster
+•	CRU risk parameters revisited and simplified, resulting in a 60-70% reduction in reviews sent to ACE with future FTE savings
+•	Enhancements to DSR which ACE identified and tested prior to launch which is improving accuracy and flexibility to spread larger connections	 
+
+ 
+•	Unsecured volumes decreased ~22% M/M and up ~ 30% Y/Y. The increase Y/Y is attributed to the focus on Credit Card growth and additional growth in New to Canada (NTC) and Refugee programs.
+•	For High Value Customer (HVC) applications, ~ 54% are reviewed and decisioned within 1 hour and ~79% are reviewed and decisioned within 4 hours.
+•	Additional focus has been placed on cross channel support to ensure that we are fully leveraged for peaks in volumes in the Retail Channel and other areas of ACE . We continue to meet SLA for the month of October (SLA- 100%)
+Indicator	Oct F2023	YTD F2023		Target/Plan
+Internal Quality Control (“QC”) % of processing reviewed and adhered	97.4%	95.8%		N/A
+Operating Expenses
+total monthly operating expenses	$0.13MM	$1.59MM	-	$1.68MM
+Commentary
+ACE – Retail Unsecured Operations | Key Indicators & SLA Targets | October YTD F2023
+
+Foot Notes
+1.	Volumes represent YTD total activities.
+2.	Y/Y represents YTD change between this fiscal year and last fiscal year.
+3.	SLA Target
+•	Retail = 85%
+•	HVC = 90%
+More than 5% below target
+0%-5% below target Equal/Above target
+4. NSR is all non-standard requests which involve no credit bureau hit. 5. NTC – New to Canada program
+	
+Overall Volumes	October Volumes	YTD Volumes1	M/M	YTD
+Y/Y2	Touches per Account	Approval Rate	Action Request Rate	Amend. Rate	Handle Time (min)	SLA3 21
+Overall Retail Unsecured	4,932	68,630	-22%	30%	1.4	61%	12%	18%	31	100%
+Retail - Credit Cards	1,428	27,314	-30%	-4%	1.3	64%	9%	17%	26	100%
+Retail - Line of Credits	837	12,026	-16%	0%	1.5	46%	18%	20%	46	100%
+Retail – SPL	196	2,528	-2%	2%	1.4	33%	10%	22%	37	100%
+Retail – Overdrafts	39	436	34%	31%	1.2	35%	15%	11%	23	100%
+Retail – NSR4	214	2,833	-12%	22%	1.7	58%	28%	21%	81	99%
+Retail NTC5– CC, LOC, SPL, ODP	1,664	15,662	-24%	-	1.2	72%	6%	12%	19	100%
+HVC - Credit Cards	126	1,394	-17%	30%	1.7	72%	22%	24%	32	100%
+HVC - Line of Credits	319	5,076	-16%	-3%	1.8	58%	18%	29%	43	100%
+HVC – SPL	96	1,205	-9%	41%	1.7	52%	13%	32%	36	100%
+HVC – Overdrafts	12	102	100%	38%	1.2	55%	19%	13%	32	100%
+HVC – NSR	0	3	-100%	0%	1.0	0%	50%	0%	41	100%
+HVC NTC5– CC, LOC, SPL	1	51	-91%	-	1.5	55%	12%	24%	15	100%
+
+	 
+Foot Notes
+1.	Volumes represent YTD total activities.
+2.	Y/Y represents YTD change between this fiscal year and last fiscal year.
+3.	SLA Targets
+•	Retail, HFS & SMA = 85%
+•	HVC = 90%
+More than 5% below target
+0%-5% below target Equal/Above target
+4.	Automated Officer: CEA automated decision for nonmaterial amendments and a TDSR variance <2%.
+Note: AO volumes are already accounted for within Overall Volumes.
+5.	HFS Volumes includes E-Home applications. 
+•	Retail and HVC volumes output increased 3% and 16% respectively M/M . Volume increased slightly due to competitive rates (bundle package) and time of year. This was the expectation that volumes could increase marginally in October but volume for remainder of the calendar year will be lower than Y/Y monthly numbers.
+•	Indirect Mortgage saw an increase M/M of 20%. (SMA volumes up 24% and HFS up 14%). Market is up slightly in October v September and Bundle package likely has provided more interest especially in the Broker/SMA channel. De-risking measures continue to hinder some volumes from the business line and therefore to ACE.
+•	Total TAT remains strong with ~ 69% of RESL applications being decisioned within 1 hour and ~88% within 4 hours.
+ACE – RESL Operations | Key Indicators & SLA Targets | October YTD F2023
+Overall Volumes	October Volumes	YTD Volumes1	M/M	YTD
+Y/Y2	Touches per 
+Account	Approval Rate	Action 
+Request Rate	Amend. Rate	Handle 
+Time
+(min)	SLA3
+Branch Network Overall	4,400	55,665	10%	-34%	3.0	72%	18%	52%	33	100%
+Retail	2,057	27,072	3%	-36%	2.8	69%	19%	50%	34	100%
+Retail – NTC	39	208	144%	-	2.8	50%	21%	49%	40	100%
+High Value Customers (HVC)	2,304	28,358	16%	-31%	3.1	75%	17%	54%	32	100%
+High Value Customers (HVC) - NTC	0	27	-	-	5.4	52%	15%	67%	58	100%
+Automated Officer4	93	1,210	43%	-2%	-	100%	-	-	-	-
+Indirect Mortgage Overall	9,959	101,059	20%	-33%	2.3	83%	10%	51%	23	100%
+Home Financing Solutions (HFS)5	3,660	44,408	14%	-31%	2.4	84%	9%	53%	24	100%
+Scotia Mortgage Authority (SMA)	6,299	56,651	24%	-36%	2.3	82%	10%	49%	23	100%
+Automated Officer4	95	525	34%	-	-	100%	-	-	-	-
+	Turnaround Time Breakdown	Key Performance Indicators
+ 	
+Indicator	Oct F2023	YTD F2023		Target/Plan
+Internal Quality Control (“QC”) % of processing reviewed and adhered is satisfactory and low risk impact	97.7%	96.9%		95%
+Operating Expenses
+total monthly operating expenses	$0.62MM	$7.76MM	-	$8.20MM
+
+•	Prime Finance volumes (DFC) Increased ~17% M/M and Leases increased ~5% M/M. While Y/Y saw a decrease in Finance of ~31% and an increase in Leases ~31% Business Line volumes continue to be lower Y/Y, ACE is reviewing a lower percentage of volumes due to de-risking measures and increase in interest rates.
+•	Near Prime (SDA) decreased ~12% M/M and decreased ~15% Y/Y.
+•	Productivity continues to be challenging over the last 10 months with a decrease in volumes due to de-risking and an increase in interest rates.
+•	A focus on cross channel support has been implemented as ACE continues to see spikes in daily volumes in other channels and staff is utilized to support SLA across ACE.
+ACE – Indirect Automotive Operations | Key Indicators & SLA Targets | October YTD F2023
+Foot Notes
+1.	Volumes represent YTD total activities.
+2.	Y/Y represents YTD change between this fiscal year and last fiscal year.
+3.	Handle Time is for DFC only. SDA data based on Turn Around Time (TAT) due to system limitations.
+4.	SLA Performance is based on TAT and is measured in minutes.
+•	DFC TAT target = 25 mins
+•	SDA TAT target = 40 mins
+SLA is over TAT target
+SLA is under TAT target
+Overall Volumes	October Volumes	YTD Volumes1	M/M	YTD
+Y/Y2	Touches per 
+Account	Approval Rate	Action 
+Request Rate	Amend. Rate	Handle Time (Min)3	SLA4
+Overall Indirect Automotive	12,716	193,737	5%	-25%	1.7	75%	8%	30%	n/a 	91%
+Dealer Finance Center (Prime) – Finance	7,514	121,724	17%	-31%	1.7	72%	10%	32%	6.6	87%
+Dealer Finance Center (Prime) – Lease	1,032	10,269	5%	31%	1.8	75%	12%	33%	6.9	91%
+Scotia Dealer Advantage (non-prime)	4,170	61,744	-12%	-15%	n/a	80%	3%	25%	18.6	100%
+Indicator	Oct F2023	YTD F2023		Target/Plan
+Internal Quality Control (“QC”) % of processing reviewed and adhered	99.5%	99.4%		95%
+Operating Expenses total monthly operating expenses	$0.29MM	$3.65MM	-	$3.86MM
+	Turnaround Time Breakdown - DFC	Key Performance Indicators 
+•	Overall volumes decreased ~1% M/M and down ~7% Y/Y. Higher interest rates and market uncertainty could be attributed to the decrease in volumes M/M and Y/Y. Noted increase in applications done by HFS/ PB up 9% M/M.
+•	72% of applications are reviewed within 4 hours.
+•	ACE sustained approval rate at 89% which is consistent with YTD (this is inclusive of Annual Reviews).
+•	Action Requests are at 29% YTD working with the Business Line to improve first time right.
+•	Service Level Agreements (SLA) are within target due to Queue Management for all time zones across Canada.
+ACE – Private Banking Operations | Key Indicators & SLA Targets | October YTD F2023
+Overall Volumes	October Volumes	YTD Volumes1	M/M	YTD
+Y/Y2	Touches per Account	Approval Rate	Action Request Rate	Amend. Rate	Handle Time (min)	SLA3
+Overall Private Banking	1,201	16,033	-1%	-7%	2.7	89%	29%	37%	69	99%
+Mortgages	691	7,752	8%	-14%	3.3	89%	25%	47%	49	99%
+Mortgages – Retail	177	2,257	4%	-18%	3.8	83%	32%	44%	52	99%
+Mortgages - HFS	514	5,495	9%	-13%	3.1	90%	22%	48%	48	99%
+Credit Cards4	86	988	-17%	0%	1.8	78%	32%	23%	37	99%
+Line of Credit	43	960	-38%	-5%	2.4	81%	28%	34%	56	99%
+PBODF/PBOLL	361	4,727	-5%	-19%	2.5	92%	33%	30%	91	100%
+Annual Reviews	20	373	25%	7%	1.1	97%	14%	0%	195	98%
+Foot Notes
+1.	Volumes represent YTD total activities.
+2.	Y/Y represents YTD change between this fiscal year and last fiscal year.
+3.	ACE Private Banking 
+SLA Targets = 90%
+More than 5% below target
+0%-5% below target
+Equal/Above target
+4.	Credit Card Volumes and approval rates includes standard retail and New To Canada (NTC).
+Indicator	Oct F2023	YTD F2023		Target/Plan
+Internal Quality Control 
+(“QC”)
+% of processing reviewed and adhered	98.8%	94.6%		95%
+Operating Expenses total monthly operating expenses	$0.87MM	$1.09MM	-	$1.15MM
+	Turnaround Time Breakdown	Key Performance Indicators 
+Foot Notes
+1.	Volumes represent YTD total activities.
+2.	Y/Y represents YTD change 
+between this fiscal year vs last fiscal year.
+3.	Approval rate is based on decisioned applications (approved + declined).
+4.	Applications that require prefunding conditions validation.
+5.	ACE Small Business 
+SLA Targets = 85%
+More than 5% below target
+0%-5% below target
+Equal/Above target
+6.	Credit Adjudication Platform -CAP  volumes are included in overall volumes starting from July 1, 2023. 
+ACE - Small Business Operations | Key Indicators & SLA Targets | October YTD F2023
+Overall Volumes	October Volumes	YTD1 Volumes	M/M	YTD
+Y/Y2	Touches per Account	FTR	Amend. Rate FTR	Approval Rate3	Pre-funding Rate4	Action Request Rate	Abandon Rate	Amend. Rate	SLA5
+Small Business Overall	3,874	59,634	-14%	-3%	1.3	58%	12%	76%	20%	22%	12%	18%	96%
+Small Business (Excl. SPSP)	2,102	29,312	-16%	2%	1.4	47%	13%	65%	18%	24%	13%	16%	95%
+Scotia Professional Student Plan	356	8,863	-39%	-7%	1.4	80%	5%	84%	2%	24%	14%	7%	98%
+Small Business Specialty	1,194	15,671	1%	-7%	1.2	63%	25%	85%	31%	15%	9%	28%	95%
+SBH/CAP Volumes6	46	175	-32%	-	N/A	58%	N/A	35%	N/A	14%	N/A	31%	99%
+Credit Review Unit	176	5,613	24%	-8%	1.3	N/A	N/A	89%	N/A	31%	N/A	N/A	N/A
+	Key Performance Indicators	CRU Action Request Pending by Region in Days
+
+Indicator	Oct F2023	YTD F2023	Target/Plan
+Internal Quality Control (“QC”) % of processing reviewed and adhered	95.2%	95.2%	95%
+Operating Expenses
+total monthly operating expenses	$0.46MM	$5.73MM	$6.06MM
+	 
+	Turnaround Time Breakdown	% of Total Activities by Application Aggregate Amount
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trend Legend:
+Canadian Banking – Guardrails Update 	  Below F23 Limit 	  Above F23 Early Warning Threshold	  Above F23 Risk Appetite Threshold
+Vintage at 6MOB is +9 bps higher QoQ, mainly driven by significantly lower weighting contributions from RESL originations, coupled with elevated delinquency levels on Prime Auto and Unsecured lines. Vintage delinquency continues to normalize across most products, partially offset by improvements in Near Prime Auto and Credit Cards, in line with industry trends and remain below F’23 SCC Limit.
+ 
+ 
+
+PRODUCT	Q2’23
+Value	Q3’23 Fcst
+Value	Q4’23 Fcst
+Value	Q1’24 Fcst
+Value	F’23 
+Limit
+	
+PRODUCT	Q2’23 Fcst
+Value	Q3’23 Fcst
+Value	Q4’23 Fcst
+Value	Q1’24 Fcst
+Value
+
+	Credit Cards	1.41%	1.41%	1.68%	1.68%	3.50%	Credit Cards	1.65%	1.58%	1.80%	1.80%
+
+ULOC	0.81%	0.81%	0.85%	0.85%	1.20%
+SDA	3.45%	3.73%	3.88%	3.85%	5.50%
+Prime Auto	0.97%	0.96%	1.00%	0.82%	1.70%
+HELOC	0.15%	0.23%	0.25%	0.26%	0.60%
+Mortgages	0.16%	0.15%	0.15%	0.14%	0.20%
+	
+ULOC	0.87%	0.89%	1.03%	1.11%
+SDA	2.67%	2.82%	2.95%	2.91%
+Prime Auto	0.15%	0.15%	0.15%	0.13%
+HELOC	0.00%	0.00%	0.00%	0.00%
+Mortgages1	0.68%	0.72%	0.84%	0.68%
+
+1Values refer to 31+ Delinquency @24 MOB for Mortgages
+ 
+Automotive Lending 
+Real Estate Secured Lending
+ 
+Unsecured Lending 
+Small Business
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
