@@ -1,7 +1,32 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# # Import Streamlit
+
+# In[ ]:
+
+
+import streamlit as st
+
+# Use a text input field for the user to enter a query
+query = st.text_input("Enter your query:", "")
+
+
+
+# if query:
+#     # Your logic to process the query goes here
+#     # For example:
+#     result = llm(Cohere)
+#     st.write(f"Result: \n\n{result}")
+# 
+
 # # Cohere Document Search with Langchain
+
+# In[ ]:
+
+
+
+
 
 # This example shows how to use the Python [langchain](https://python.langchain.com/docs/get_started/introduction) library to run a text-generation request against [Cohere's](https://cohere.com/) API, then augment that request using the text stored in a collection of local PDF documents.
 # 
@@ -12,7 +37,7 @@
 
 # ## Set up the RAG workflow environment
 
-# In[1]:
+# In[21]:
 
 
 from getpass import getpass
@@ -34,7 +59,7 @@ from langchain.vectorstores import FAISS
 
 # Set up some helper functions:
 
-# In[2]:
+# In[22]:
 
 
 def pretty_print_docs(docs):
@@ -47,7 +72,7 @@ def pretty_print_docs(docs):
 
 # Make sure other necessary items are in place:
 
-# In[3]:
+# In[27]:
 
 
 try:
@@ -66,23 +91,9 @@ if not contains_pdf:
     print(f"ERROR: The {directory_path} subfolder must contain at least one .pdf file")
 
 
-# ## Start with a basic generation request without RAG augmentation
-# 
-# Let's start by asking the Cohere LLM a difficult, domain-specific question we don't expect it to have an answer to. A simple question like "*What is the capital of France?*" is not a good question here, because that's basic knowledge that we expect the LLM to know.
-# 
-# Instead, we want to ask it a question that is very domain-specific that it won't know the answer to. A good example would an obscure detail buried deep within a company's annual report. For example:
-# 
-# "*How many Vector scholarships in AI were awarded in 2022?*"
-
-# In[4]:
-
-
-query = "What is the December-2023 snapshot for Mastercards?"
-
-
 # ## Now send the query to Cohere
 
-# In[5]:
+# In[28]:
 
 
 llm = Cohere()
@@ -90,7 +101,7 @@ result = llm(query)
 print(f"Result: \n\n{result}")
 
 
-# In[7]:
+# In[29]:
 
 
 # Load the pdfs
@@ -117,11 +128,21 @@ embeddings = HuggingFaceBgeEmbeddings(
 print(f"Done")
 
 
+# In[ ]:
+
+
+if query:
+    # Your logic to process the query goes here
+    # For example:
+    result = llm(query)
+    st.write(f"Result: \n\n{result}")
+
+
 # # Retrieval: Make the document chunks available via a retriever
 
 # The retriever will identify the document chunks that most closely match our original query. (This takes about 1-2 minutes)
 
-# In[8]:
+# In[30]:
 
 
 vectorstore = FAISS.from_documents(chunks, embeddings)
@@ -133,7 +154,7 @@ docs = retriever.get_relevant_documents(query)
 
 # Let's see what results it found. Important to note, these results are in the order the retriever thought were the best matches.
 
-# In[9]:
+# In[31]:
 
 
 pretty_print_docs(docs)
@@ -141,7 +162,7 @@ pretty_print_docs(docs)
 
 # These results seem to somewhat match our original query, but we still can't seem to find the information we're looking for. Let's try sending our LLM query again including these results, and see what it comes up with.
 
-# In[10]:
+# In[32]:
 
 
 print(f"Sending the RAG generation with query: {query}")
@@ -159,7 +180,7 @@ print(f"Result:\n\n{qa.run(query=query)}")
 # !pip install googlesearch-python
 # 
 
-# In[13]:
+# In[33]:
 
 
 from bs4 import BeautifulSoup
@@ -178,7 +199,7 @@ from langchain_community.llms import Cohere
 from langchain_community.vectorstores import FAISS
 
 
-# In[ ]:
+# In[34]:
 
 
 def pretty_print_docs(docs):
@@ -195,7 +216,7 @@ def main():
     os.environ["COHERE_API_KEY"] = 'ht9CB7BKp1gXtE9RSGbwCplCOfTnwysPj2misv2y'
 
     # Start with making a generation request without RAG augmentation
-    query = "What is the current unemployment rate in Canada?"
+    query = st.text_input("Enter your query:", "")
     llm = Cohere()
     print(f"*** Sending non-RAG augmented generation request for query: {query}\n")
     result = llm(query)
@@ -237,6 +258,25 @@ def main():
 if __name__ == "__main__":
     main()
 
+
+
+# In[ ]:
+
+
+import streamlit as st
+
+# Use a text input field for the user to enter a query
+query = st.text_input("Enter your query:", "")
+
+
+# In[ ]:
+
+
+if query:
+    # Your logic to process the query goes here
+    # For example:
+    result = llm(Cohere)
+    st.write(f"Result: \n\n{result}")
 
 
 # In[ ]:
