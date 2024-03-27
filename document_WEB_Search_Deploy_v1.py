@@ -90,38 +90,7 @@ result = llm(query)
 print(f"Result: \n\n{result}")
 
 
-# This is the wrong answer: Vector in fact awarded 109 AI scholarships in 2022. Fortunately, we do have that information available in Vector's 2021-22 Annual Report, which is available in the `source_documents` folder. Let's see how we can use RAG to augment our question with a document search and get the correct answer.
-
-# ## Ingestion: Load and store the documents from source_documents
-
-# Start by reading in all the PDF files from `source_documents`, break them up into smaller digestible chunks, then encode them as vector embeddings.
-
-# #if your PC doesn't have graphic card, change configuration from 'cuda' to 'cpu'
-
-# # Load the pdfs
-# loader = PyPDFDirectoryLoader(directory_path)
-# docs = loader.load()
-# print(f"Number of source materials: {len(docs)}")
-# 
-# # Split the documents into smaller chunks
-# text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)
-# chunks = text_splitter.split_documents(docs)
-# print(f"Number of text chunks: {len(chunks)}")
-# 
-# # Define the embeddings model
-# model_name = "BAAI/bge-small-en-v1.5"
-# encode_kwargs = {'normalize_embeddings': True} # set True to compute cosine similarity
-# 
-# print(f"Setting up the embeddings model...")
-# embeddings = HuggingFaceBgeEmbeddings(
-#     model_name=model_name,
-#     model_kwargs={'device': 'cuda'},
-#     encode_kwargs=encode_kwargs
-# )
-# 
-# print(f"Done")
-
-# In[10]:
+# In[7]:
 
 
 # Load the pdfs
@@ -152,7 +121,7 @@ print(f"Done")
 
 # The retriever will identify the document chunks that most closely match our original query. (This takes about 1-2 minutes)
 
-# In[11]:
+# In[8]:
 
 
 vectorstore = FAISS.from_documents(chunks, embeddings)
@@ -172,7 +141,7 @@ pretty_print_docs(docs)
 
 # These results seem to somewhat match our original query, but we still can't seem to find the information we're looking for. Let's try sending our LLM query again including these results, and see what it comes up with.
 
-# In[12]:
+# In[10]:
 
 
 print(f"Sending the RAG generation with query: {query}")
@@ -184,35 +153,23 @@ print(f"Result:\n\n{qa.run(query=query)}")
 
 # # Reranking: Improve the ordering of the document chunks
 
-# In[13]:
-
-
-compressor = CohereRerank()
-compression_retriever = ContextualCompressionRetriever(
-    base_compressor=compressor, base_retriever=retriever
-)
-compressed_docs = compression_retriever.get_relevant_documents(query)
-
+# compressor = CohereRerank()
+# compression_retriever = ContextualCompressionRetriever(
+#     base_compressor=compressor, base_retriever=retriever
+# )
+# compressed_docs = compression_retriever.get_relevant_documents(query)
 
 # Now let's see what the reranked results look like:
 
-# In[14]:
-
-
-pretty_print_docs(compressed_docs)
-
+# pretty_print_docs(compressed_docs)
 
 # Lastly, let's run our LLM query a final time with the reranked results:
 
-# In[15]:
-
-
-qa = RetrievalQA.from_chain_type(llm=llm,
-        chain_type="stuff",
-        retriever=compression_retriever)
-
-print(f"Result:\n\n {qa.run(query=query)}")
-
+# qa = RetrievalQA.from_chain_type(llm=llm,
+#         chain_type="stuff",
+#         retriever=compression_retriever)
+# 
+# print(f"Result:\n\n {qa.run(query=query)}")
 
 # # Adding Web search capability
 
@@ -222,7 +179,7 @@ print(f"Result:\n\n {qa.run(query=query)}")
 # !pip install googlesearch-python
 # 
 
-# In[6]:
+# In[ ]:
 
 
 from bs4 import BeautifulSoup
@@ -241,7 +198,7 @@ from langchain_community.llms import Cohere
 from langchain_community.vectorstores import FAISS
 
 
-# In[9]:
+# In[ ]:
 
 
 def pretty_print_docs(docs):
@@ -324,7 +281,7 @@ if __name__ == "__main__":
 # pip install beautifulsoup4 requests
 # 
 
-# In[12]:
+# In[ ]:
 
 
 import requests
@@ -350,7 +307,7 @@ else:
 
 # Summarize content from this website
 
-# In[13]:
+# In[ ]:
 
 
 import requests
