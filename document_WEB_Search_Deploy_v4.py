@@ -3,15 +3,136 @@
 
 # # Import Streamlit
 
-# In[ ]:
+# import streamlit as st
+# 
+# # Use a text input field for the user to enter a query
+# query = st.text_input("Enter your query:", "", key="unique_query_input_key")
+# 
+# 
 
+# import streamlit as st
+# # Include other necessary imports
+# 
+# # Define the directory path
+# directory_path = r"C:\Users\yulia\Desktop\RAG BOOTCAMP\RAG-Bootcamp\source_documents"
+# 
+# # Use a text input field for the user to enter a query
+# query = st.text_input("Enter your query:", "", key="unique_query_input_key")
+# 
+# # Check if the query is not empty and has a reasonable length
+# if query and len(query.strip()) > 0:  # Adjust the length check as necessary
+#     # Document search logic
+#     # ...
+# 
+#     # Web search logic
+#     # Assuming 'llm' is a function that sends the query to a language model
+#     if query.strip():  # Ensures query is not just whitespace
+#         try:
+#             web_search_results = llm(query)  # Make the API call
+#             st.write(f"Web Search Results: \n\n{web_search_results}")
+#         except Exception as e:
+#             st.error(f"An error occurred: {e}")
+# else:
+#     # Inform the user that the input is too short
+#     st.error("Please enter a more substantial query.")
+# 
 
-import streamlit as st
+# import streamlit as st
+# from langchain.document_loaders.pdf import PyPDFDirectoryLoader
+# from langchain.text_splitter import RecursiveCharacterTextSplitter
+# from langchain.embeddings import HuggingFaceBgeEmbeddings
+# 
+# # Initialize these variables to avoid reference before assignment errors
+# docs = []
+# document_search_results = ""
+# web_search_results = ""
+# 
+# # Define the directory path
+# directory_path = r"C:\Users\yulia\Desktop\RAG BOOTCAMP\RAG-Bootcamp\source_documents"
+# 
+# # Use a text input field for the user to enter a query
+# query = st.text_input("Enter your query:", "", key="unique_query_input_key")
+# 
+# 
+# 
+# # Document search logic
+# if query:  # This checks if the query is not empty
+#     loader = PyPDFDirectoryLoader(directory_path)
+#     docs = loader.load()
+#     st.write(f"Number of source materials: {len(docs)}")
+#    
+#     # Split the documents into smaller chunks
+#     text_splitter = RecursiveCharacterTextSplitter(chunk_size=800, chunk_overlap=100)
+#     chunks = text_splitter.split_documents(docs)
+#     st.write(f"Number of text chunks: {len(chunks)}")
+# 
+#     
+#     # Initialize and set up the embeddings model
+#     model_name = "BAAI/bge-small-en-v1.5"
+#     encode_kwargs = {'normalize_embeddings': True}
+#     embeddings = HuggingFaceBgeEmbeddings(model_name=model_name, model_kwargs={'device': 'cpu'}, encode_kwargs=encode_kwargs)
+#     st.write("Embeddings model is set up.")
+# 
+#     # Here, include logic to process the chunks and generate search results
+#     document_search_results = "Processed document search results"
+#     st.write(f"Document Search Results: \n\n{document_search_results}")
+# 
+#     # Display the document search results
+#     st.write(f"Document Search Results: \n\n{document_search_results}")
+#     
+# 
+# # Web search logic (assuming you have specific logic for web search)
+# if query.strip():  # Reuse the same query
+#     # Include logic to process the query for web search and generate results
+#     web_search_results = "Processed web search results"
+#     st.write(f"Web Search Results: \n\n{web_search_results}")
+# 
 
-# Use a text input field for the user to enter a query
-query = st.text_input("Enter your query:", "", key="unique_query_input_key")
+# # For Document Search:
 
+# if query:  # Checks if the query is not empty
+#     # Proceed with document search logic
+#     # For example:
+#     loader = PyPDFDirectoryLoader(directory_path)
+#     docs = loader.load()
+#     # Continue with splitting documents, creating embeddings, etc.
+# 
 
+# # For Web Search:
+
+# if query:  # Checks if the query is not empty
+#     # Proceed with web search logic
+#     # For example:
+#     result_text = ""
+#     for result_url in search(query, num_results=10):
+#         response = requests.get(result_url)
+#         soup = BeautifulSoup(response.content, 'html.parser')
+#         result_text += soup.get_text()
+#     # Continue with processing the web search results
+# 
+
+# if query:
+#     # Your logic to process the query goes here
+#     # For example:
+#     result = llm(query)
+#     st.write(f"Result: \n\n{result}")
+
+# if query:
+# # Document search logic
+#     loader = PyPDFDirectoryLoader(directory_path)
+#     docs = loader.load()
+# 
+# # Web search logic
+# if query:
+#     # Your logic to process the query goes here
+#     # For example:
+#     result = llm(query)
+#     st.write(f"Result: \n\n{result}")
+# 
+# # Display the results
+#     st.write(f"Document Search Results: \n\n{document_search_results}")
+#     st.write(f"Web Search Results: \n\n{web_search_results}")
+# 
 
 # if query:
 #     # Your logic to process the query goes here
@@ -37,7 +158,7 @@ query = st.text_input("Enter your query:", "", key="unique_query_input_key")
 
 # ## Set up the RAG workflow environment
 
-# In[21]:
+# In[36]:
 
 
 from getpass import getpass
@@ -59,7 +180,7 @@ from langchain.vectorstores import FAISS
 
 # Set up some helper functions:
 
-# In[22]:
+# In[37]:
 
 
 def pretty_print_docs(docs):
@@ -72,7 +193,7 @@ def pretty_print_docs(docs):
 
 # Make sure other necessary items are in place:
 
-# In[27]:
+# In[ ]:
 
 
 try:
@@ -91,9 +212,12 @@ if not contains_pdf:
     print(f"ERROR: The {directory_path} subfolder must contain at least one .pdf file")
 
 
+# print(f"Checking for PDFs in: {os.path.abspath(directory_path)}")
+# 
+
 # ## Now send the query to Cohere
 
-# In[28]:
+# In[ ]:
 
 
 llm = Cohere()
@@ -101,7 +225,7 @@ result = llm(query)
 print(f"Result: \n\n{result}")
 
 
-# In[29]:
+# In[ ]:
 
 
 # Load the pdfs
@@ -126,16 +250,6 @@ embeddings = HuggingFaceBgeEmbeddings(
 )
 
 print(f"Done")
-
-
-# In[ ]:
-
-
-if query:
-    # Your logic to process the query goes here
-    # For example:
-    result = llm(query)
-    st.write(f"Result: \n\n{result}")
 
 
 # # Retrieval: Make the document chunks available via a retriever
@@ -260,14 +374,11 @@ if __name__ == "__main__":
 
 
 
-# In[ ]:
-
-
-import streamlit as st
-
-# Use a text input field for the user to enter a query
-query = st.text_input("Enter your query:", "", key="unique_query_input_key")
-
+# import streamlit as st
+# 
+# # Use a text input field for the user to enter a query
+# query = st.text_input("Enter your query:", "", key="unique_query_input_key")
+# 
 
 # if query:
 #     # Your logic to process the query goes here
@@ -278,5 +389,43 @@ query = st.text_input("Enter your query:", "", key="unique_query_input_key")
 # In[ ]:
 
 
+import streamlit as st
+# Include other necessary imports
+
+# Define the directory path
+directory_path = r"C:\Users\yulia\Desktop\RAG BOOTCAMP\RAG-Bootcamp\source_documents"
+
+# Use a text input field for the user to enter a query
+query = st.text_input("Enter your query:", "", key="unique_query_input_key")
+
+# Check if the query is not empty and has a reasonable length
+if query and len(query.strip()) > 0:  # Adjust the length check as necessary
+    # Document search logic
+    # ...
+
+    # Web search logic
+    # Assuming 'llm' is a function that sends the query to a language model
+    if query.strip():  # Ensures query is not just whitespace
+        try:
+            web_search_results = llm(query)  # Make the API call
+            st.write(f"Web Search Results: \n\n{web_search_results}")
+        except Exception as e:
+            st.error(f"An error occurred: {e}")
+else:
+    # Inform the user that the input is too short
+    st.error("Please enter a more substantial query.")
 
 
+# if query.strip():  # This checks if the query is not empty or just whitespace
+#     result = llm(query)
+#     st.write(f"Result: \n\n{result}")
+# 
+
+# if query.strip():  # This checks if the query is not empty or just whitespace
+#     result = llm(query)
+#     st.write(f"Result: \n\n{result}")
+# else:
+#     st.write("Please enter a valid query.")
+# 
+
+# 
